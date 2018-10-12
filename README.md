@@ -8,10 +8,9 @@ https://github.com/kuarchi-programming-2018
 [181011assignment](https://github.com/kuarchi-programming-2018/181011assignment)
 
 ## 181012
-[lecture](handout-2018-10-5.md)
-[181012attendance](https://github.com/kuarchi-programming-2018/181005attendance)  
-[181018assignment](https://github.com/kuarchi-programming-2018/181011assignment)
-
+[lecture](181012lecture.md)  
+[181012attendance](https://github.com/kuarchi-programming-2018/181012attendance)    
+[181018assignment](https://github.com/kuarchi-programming-2018/181018assignment)  
 
 # 質問方法
 
