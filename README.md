@@ -15,6 +15,12 @@ https://github.com/kuarchi-programming-2018
 [181018assignment](https://github.com/kuarchi-programming-2018/181018assignment)  
 
 
+## 181019
+[lecture](1810119lecture.md)  
+[181019attendance](https://github.com/kuarchi-programming-2018/181019attendance)    
+[181025assignment](https://github.com/kuarchi-programming-2018/181025assignment)  
+
+
 # 質問方法
 - 授業中に質問してください。
 - 授業中以外ではこのリポジトリの
