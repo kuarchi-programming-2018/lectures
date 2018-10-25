@@ -16,7 +16,7 @@ https://github.com/kuarchi-programming-2018
 
 
 ## 181019
-[lecture](1810119lecture.md)  
+[lecture](181019lecture.md)  
 [181019attendance](https://github.com/kuarchi-programming-2018/181019attendance)    
 [181025assignment](https://github.com/kuarchi-programming-2018/181025assignment)  
 
