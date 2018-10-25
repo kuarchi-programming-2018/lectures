@@ -1,7 +1,8 @@
 from pathlib import Path
 import itertools
 
-DIRNAME = r"C:\Users\o-kei\Documents\GitHub\kuarchi-programming-2018\181003attendance-studentrepos\181005attendance-10-10-2018-07-35-43"
+DIRNAME = "/Users/kei/GitHub/kuarchi-programming-2018/181005-class/181005attendance-10-12-2018-01-15-00"
+# DIRNAME = r"C:\Users\o-kei\Documents\GitHub\kuarchi-programming-2018\181003attendance-studentrepos\181005attendance-10-10-2018-07-35-43"
 # DIRNAME = r"C:\Users\o-kei\Documents\GitHub\kuarchi-programming-2018\181003attendance-studentrepos\181005attendance-10-12-2018-03-05-52"
 
 
@@ -37,7 +38,7 @@ if __name__ == '__main__':
                     line_split.append('error')
                 if col == 'id':
                     line_split[1] = line_split[1].strip().replace('-', '')
-                    print(line_split)
+                    # print(line_split)
                 if len(line_split) == 2:
                     data_line.append(line_split[1])
         data.append(','.join(data_line))
